@@ -1,1 +1,1 @@
-# data-structure-study
+# java-study
